@@ -3,7 +3,7 @@
 ### Seja bem vindo ao meu Github !!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Biel01)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielhenrique.58794gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:gabrielhenrique.58794gmail.com)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Biel01&show_icons=true&theme=dracula)
 ### Tecnologias que eu uso no meu dia dia 
@@ -21,4 +21,5 @@
 
 
 Transformando ideias em código, criando o futuro com cada linha.
+
 
